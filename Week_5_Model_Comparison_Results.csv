@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Mean baseline,0.537,0.573,-0.046
+Ridge regression,0.532,0.575,-0.052
+Decision tree (depth=3),0.541,0.612,-0.194
